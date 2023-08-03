@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @pkrivka
-- 👀 I’m interested in ... Android Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... https://www.linkedin.com/in/patrikkrivka/
+- 👋 Hi, I’m Patrik Krivka.
+- 👀 I’m interested in Android Development
+- 📫 How to reach me - linkedin.com/in/patrikkrivka/
 
 <!---
 pkrivka/pkrivka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
